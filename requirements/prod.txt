@@ -1,0 +1,15 @@
+django>=5.0.2
+django-text-translator>=2024.2.29.3
+opyml
+tiktoken
+feedparser
+feedgen
+httpx
+dateutils
+huey
+gevent
+uvicorn
+whitenoise
+html2text
+fake-useragent
+cityhash
